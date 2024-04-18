@@ -1,0 +1,64 @@
+{
+  "icons": [
+    {
+      "icon": "bag-frame",
+      "path": "common/bag-frame.svg"
+    },
+    {
+      "icon": "bag-fill-frame",
+      "path": "common/bag-fill-frame.svg"
+    },
+    {
+      "icon": "bar-chart-line",
+      "path": "common/bar-chart-line.svg"
+    },
+    {
+      "icon": "bar-chart-line-fill",
+      "path": "common/bar-chart-line-fill.svg"
+    },
+    {
+      "icon": "door-open",
+      "path": "common/door-open.svg"
+    },
+    {
+      "icon": "house-fill",
+      "path": "common/house-fill.svg"
+    },
+    {
+      "icon": "house",
+      "path": "common/house.svg"
+    },
+    {
+      "icon": "people",
+      "path": "common/people.svg"
+    },
+    {
+      "icon": "people-fill",
+      "path": "common/people-fill.svg"
+    },
+    {
+      "icon": "produtos",
+      "path": "common/produtos.svg"
+    },
+    {
+      "icon": "produtos-fill",
+      "path": "common/produtos-fill.svg"
+    },
+    {
+      "icon": "book-icon",
+      "path": "common/book-icon.svg"
+    },
+    {
+      "icon": "person-circle",
+      "path": "common/person-circle.svg"
+    },
+    {
+      "icon": "bookshelf",
+      "path": "common/bookshelf.svg"
+    },
+    {
+      "icon": "bookshelf-fill",
+      "path": "common/bookshelf-fill.svg"
+    }
+  ]
+}

@@ -4,24 +4,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Before run you need to install all dependencies, so `npm install`.
+Run `ng serve` or `npm run start` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+Sugiro instalar o node.js caso ainda não tenha em sua máquina.
+Para rodar a aplicação precisa instalar as dependências primeiro:
+  `npm install`
+Para colocar em funcionamento também pode utilizar o node:
+  `ng serve` ou `npm run start`
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Projeto para a disciplina de Web2 cuja grade envolve Java Spring.
+Para esta aplicação o frontend está em Angular versão 16 e a API está
+em Java e Springboot. 

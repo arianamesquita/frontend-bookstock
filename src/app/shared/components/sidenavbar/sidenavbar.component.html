@@ -1,0 +1,12 @@
+<div class="container">
+  <div class="buttons">
+    <div *ngFor=" let button of buttons; let i = index">
+      <button class="button-deco" (mouseenter)="buttonIcons[i] = button.iconEmpty" (mouseleave)="buttonIcons[i] = button.iconFilled"
+        (click)="navigateTo(button.text)">
+        <mat-icon [svgIcon]="buttonIcons[i] || button.iconFilled" class=""></mat-icon>
+        <div class="text">{{ button.text }}</div>
+        <div class="circle"></div>
+      </button>
+    </div>
+  </div>
+</div>

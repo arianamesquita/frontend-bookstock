@@ -10,8 +10,11 @@
 /node_modules
 npm-debug.log
 yarn-error.log
+/.pnp
+.pnp.js
 
 # IDEs and editors
+/.idea
 .idea/
 .project
 .classpath
@@ -29,6 +32,7 @@ yarn-error.log
 .history/*
 
 # Miscellaneous
+/.sass-cache
 /.angular/cache
 .sass-cache/
 /connect.lock
@@ -36,7 +40,27 @@ yarn-error.log
 /libpeerconnection.log
 testem.log
 /typings
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+yarn-error.log*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
 # System files
 .DS_Store
 Thumbs.db
+
+# Production
+/build
+reports/coverage.xml
+.angular/cache
+/.angular
+package-lock.json
+
+/coverage/*
+!/coverage/coverage.xml
+!/coverage/lcov.info

@@ -1,0 +1,11 @@
+@import "/src/styles/styles.scss";
+@import "/src/styles/variables/colors.scss";
+
+.container{
+  background-color: $primary-purple2;
+  width: 200px;
+  margin-top: 10vh;
+  height: 100%;
+
+  align-items: flex-end;
+}
